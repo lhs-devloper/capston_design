@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 selenium = "*"
 beautifulsoup4 = "*"
+flask = "*"
+dash = "*"
+plotly = "*"
+pandas = "*"
 
 [dev-packages]
 
