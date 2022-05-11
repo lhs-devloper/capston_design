@@ -1,0 +1,12 @@
+.sex {
+    color: blue;
+}
+
+.unsex {
+    color: red;
+}
+
+#button1 {
+    border: 0;
+    outline: 0;
+}
