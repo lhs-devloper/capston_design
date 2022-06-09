@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "988b92396da617a6e8f656760ac08ad8d070f1f6216151d9c487aa063ca6ed34"
+            "sha256": "4f24fec0d718f2879dcf7c35830886518257c3e52c9d92d6b67faff98d98d406"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -158,6 +158,14 @@
             ],
             "version": "==1.12"
         },
+        "gunicorn": {
+            "hashes": [
+                "sha256:9dcc4547dbb1cb284accfb15ab5667a0e5d1881cc443e0677b4882a4067a807e",
+                "sha256:e0a968b5ba15f8a328fdfd7ab1fcb5af4470c28aaf7e55df02a99bc13138e6e8"
+            ],
+            "index": "pypi",
+            "version": "==20.1.0"
+        },
         "importlib-metadata": {
             "hashes": [
                 "sha256:5d26852efe48c0a32b0509ffbc583fda1a2266545a78d104a6f4aff3db17d700",
@@ -230,11 +238,11 @@
         },
         "plotly": {
             "hashes": [
-                "sha256:0e6e2382aafe2b2978d2c1b10ea93e73ad1ec80fa9a195ff6eea62af7905dfdc",
-                "sha256:58cef3292f5994d82154d51fbc7338c48009fc47ea32ffe052ad29aaa15e0df9"
+                "sha256:63b0d47d21ec285cf18c9b413182fcf9af6cba8faa52d47a43323f7f28a85646",
+                "sha256:f46424f191ea6656440a849c281685685c3154864bbf36bb1fcd0709cb59a496"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==5.8.0"
+            "version": "==5.8.1"
         },
         "tenacity": {
             "hashes": [
@@ -681,11 +689,11 @@
         },
         "plotly": {
             "hashes": [
-                "sha256:0e6e2382aafe2b2978d2c1b10ea93e73ad1ec80fa9a195ff6eea62af7905dfdc",
-                "sha256:58cef3292f5994d82154d51fbc7338c48009fc47ea32ffe052ad29aaa15e0df9"
+                "sha256:63b0d47d21ec285cf18c9b413182fcf9af6cba8faa52d47a43323f7f28a85646",
+                "sha256:f46424f191ea6656440a849c281685685c3154864bbf36bb1fcd0709cb59a496"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==5.8.0"
+            "version": "==5.8.1"
         },
         "pycparser": {
             "hashes": [

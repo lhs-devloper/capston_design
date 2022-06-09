@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 dash-daq = "*"
 dash-bootstrap-components = "*"
+gunicorn = "*"
 
 [dev-packages]
 selenium = "*"

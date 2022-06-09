@@ -31,7 +31,6 @@ app.layout = html.Div(
 @app.callback(Output("plotly-output-graph", "figure"), Input("xaxis-column", "value"))
 def update_output(xaxis_column_value):
     dff = df[df["Name"] == xaxis_column_value]
-    print(dff)
     fig = px.line(dff, x="year", y="WAR", color="Name", height=800)
     fig.update_xaxes(title=xaxis_column_value)
 
