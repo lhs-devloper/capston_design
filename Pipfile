@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 dash-daq = "*"
+dash-bootstrap-components = "*"
 
 [dev-packages]
 selenium = "*"
