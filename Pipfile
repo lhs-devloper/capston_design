@@ -4,18 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-dash-daq = "*"
-dash-bootstrap-components = "*"
-gunicorn = "*"
 
 [dev-packages]
-selenium = "*"
-plotly = "*"
-bs4 = "*"
-flask = "*"
-dash = "*"
-pandas = "*"
-beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.7"

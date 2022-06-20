@@ -1,7 +1,0 @@
-{
-    "python.formatting.provider": "black",
-    "editor.tokenColorCustomizations": {
-        "comments": "#EFDC05"
-    },
-    "python.linting.enabled": false,
-}
