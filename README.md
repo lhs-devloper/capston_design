@@ -1,5 +1,3 @@
-# 프젝 참여자들 주목!
-
 ## Guide Line
 1. 크롤링 전체적인 틀은 완성됬는데 변경해야할 사항들이 많음
 2. 크롤링 사용은 코드 2개로 구분되어있음
@@ -26,11 +24,11 @@
 <p>pipenv shell → 실행</p>
 
 ## 최종
-1. 수식은 다음과 같이 구현 $\displaystyle\sum_{i=0}^{i=len(years)}{x_i-y_i}$
+1. 수식은 다음과 같이 구현 $\displaystyle\sum_{i=0}^{i=len(years)}{(x_i-y_i)}$
 2. Dash_Library 통해 선수예측스텟들 확인가능(<a href='https://dash-library.herokuapp.com/'>Herokku배포</a>)
 
 ## Stack
-<p>Selenium</p>
+<p>Python Selenium</p>
 <p>Dash_Library(Flask)</p>
 <p>Scikit-learn(ElasticNet)</p>
 

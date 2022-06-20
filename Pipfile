@@ -4,6 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+dash-daq = "*"
+dash-bootstrap-components = "*"
+gunicorn = "*"
+selenium = "*"
+plotly = "*"
+bs4 = "*"
+flask = "*"
+dash = "*"
+pandas = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
